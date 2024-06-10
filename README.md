@@ -1,5 +1,4 @@
-# formulaire-dynamique
-Projet d'application : formulaire dynamique
+# Projet d'application : formulaire dynamique
 
 # Prérequis : notions de base en JavaScript et en POO, maîtrise de HTML/CSS.
 
